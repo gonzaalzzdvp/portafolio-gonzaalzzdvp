@@ -1,3 +1,8 @@
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 60px;
+}
+
 :root {
     --primary: hsl(190, 68%, 53%);
     --primary-dark: hsl(190,68%,50%);
