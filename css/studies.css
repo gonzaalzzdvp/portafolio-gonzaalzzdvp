@@ -20,7 +20,16 @@
     margin-bottom: 3rem;
 }
 
-#studies >div > a {
+#studies > div {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+#studies > div > button {
+    background-color: transparent;
+    margin: auto;
     text-decoration: none;
     color: var(--gray3);
+    border: none;
 }
