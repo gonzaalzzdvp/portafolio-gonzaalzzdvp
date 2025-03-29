@@ -71,3 +71,9 @@
     top: 40%;
     opacity: .75;
 }
+
+@media (max-width: 520px) {
+    #portfolio button{
+        width: 300px;
+    }
+}
