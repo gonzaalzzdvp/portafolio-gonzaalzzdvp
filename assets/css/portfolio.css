@@ -56,7 +56,7 @@
 }
 
 #portfolio button:after {
-    content: url(../assets/img/portfolio/lupa.png);
+    content: url('../img/portfolio/lupa.png');
     width: 50%;
     position: absolute;
     z-index: 2;
